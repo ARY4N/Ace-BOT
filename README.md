@@ -39,4 +39,3 @@ Top.gg: https://top.gg/bot/802217461524463646
 Website: https://acebotsite.glitch.me/
 Server: https://discord.gg/JP9XU8MDPx
 2 creators : @Aryan.#7661 | @famEVEX#8308
-<@687327037114810398><@709821104092610560>
